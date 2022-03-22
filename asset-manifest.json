@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Peoples-Rolodex/static/css/main.9e185ec7.css",
+    "main.js": "/Peoples-Rolodex/static/js/main.f8cc0ffc.js",
+    "static/js/787.6e43d0f7.chunk.js": "/Peoples-Rolodex/static/js/787.6e43d0f7.chunk.js",
+    "index.html": "/Peoples-Rolodex/index.html",
+    "main.9e185ec7.css.map": "/Peoples-Rolodex/static/css/main.9e185ec7.css.map",
+    "main.f8cc0ffc.js.map": "/Peoples-Rolodex/static/js/main.f8cc0ffc.js.map",
+    "787.6e43d0f7.chunk.js.map": "/Peoples-Rolodex/static/js/787.6e43d0f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e185ec7.css",
+    "static/js/main.f8cc0ffc.js"
+  ]
+}
